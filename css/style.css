@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+#enterDetails {
+    float: left;
+    width: 50%;
+    background-color: darkslategray;
+    color: floralwhite;
+}
+
+#findDetails {
+    float: left;
+    width: 50%;
+    color: darkslategray;
+    background-color:  floralwhite;
+}
+input{
+    width: 120px;
+    
+}
+
